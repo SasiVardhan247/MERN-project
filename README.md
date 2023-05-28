@@ -2,6 +2,19 @@
 
 ### Note : Please push your updates/changes by creating a seperate branch , Never push your changes to main/master brnaches
 
+# How to **use**?
+
+Install the dependencies
+
+```bash
+npm install
+```
+
+Run server
+
+```bash
+npm start
+```
 
 # How to **Collaboratre**?
 
