@@ -21,12 +21,10 @@ npm start
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](https://medium.com/@pawanpiumal1/basics-of-git-gui-71366702fc26)_
 _If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/)._
 
-**1.**  Fork [this]((https://github.com/Harikaraja/MERN-project)) repository.
-
-**2.**  Clone your forked copy of the project.
+**1.**  Clone this repository.
 
 ```
-git clone  https://github.com/<your_github_username>/MERN-project
+git clone  https://github.com/Harikaraja/MERN-project
 ```
 
 **3.** Navigate to the project directory :file_folder: .
@@ -76,3 +74,4 @@ git commit -m "Your message"
 **11.** Push the committed changes in your feature branch to your remote repo.
 ```
 git push -u origin <your_branch_name>
+```
